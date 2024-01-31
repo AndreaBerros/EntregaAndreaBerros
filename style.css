@@ -7,3 +7,8 @@ body {
 img{
     border: solid black;
 }
+ul{
+    background-color: pink;
+    width: fit-content;
+    margin-left: 45%;
+}
