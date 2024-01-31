@@ -4,3 +4,6 @@ body {
     text-decoration: double;
     color: black;
 }
+img{
+    border: solid black;
+}
